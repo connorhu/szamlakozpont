@@ -1,0 +1,13 @@
+{
+    "name": "connorhu/szamlakozpont",
+    "description": "Wrapper for Szamlakozpont SOAP API",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Szamlakozpont\\": "lib/"
+        }
+    },
+    "require": {
+        "php": "^7.2"
+    }
+}
